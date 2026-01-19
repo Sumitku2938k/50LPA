@@ -7,5 +7,6 @@ int main(){
     }
 
     printf("The sum of first 15 natural numbers is: %d\n", sum);
+    
     return 0;
 }
